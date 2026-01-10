@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prajjwol Thapa.
 - 👀 I’m interested in Data Engineering and Analytics.
-- 🌱 I’m currently learning Data Engineering and Business Analysis Tools.
+- 🌱 I’m currently learning Data Science and Business Analysis Tools.
 - 📫 How to reach me prajjwolreads777@gmail.com
 
 
